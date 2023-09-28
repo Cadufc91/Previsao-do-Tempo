@@ -5,6 +5,7 @@ export const Hero = ({ title }: { title: string }) => (
     justifyContent="center"
     alignItems="center"
     height="100vh"
+    mt='50px'
   >
     <Heading>{title}</Heading>
   </Flex>

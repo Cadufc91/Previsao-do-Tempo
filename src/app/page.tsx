@@ -16,15 +16,11 @@ import { DarkModeSwitch } from '../components/DarkModeSwitch';
 import { Footer } from '../components/Footer';
 
 const Index = () => (
-  <Container height="100vh">
+  <Container height="100vh" overflow='hidden'>
     <Hero />
     <DarkModeSwitch />
     <Main />
-     
-    <Footer>
-      <a href="https://github.com/Cadufc91" target='_blank'><AiFillGithub size={30}/></a>
-      <a href="https://www.linkedin.com/in/carloseduardo-fernandes/" target='_blank'><AiFillLinkedin size={30} /></a>
-    </Footer>
+    <Footer />
   </Container>
 )
 
