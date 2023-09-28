@@ -15,76 +15,73 @@
  
 </p>
 <h1 align="center">
-    <img alt="Aplicação" title="#Aplicação" src="./src/assets/thumb.png" />
+    <img alt="Application" title="#Application" src="./src/thumb.png" />
 </h1>
 
 <h4 align="center"> 
-	🚧  Previsão do Tempo - Concluído 🚀 🚧
+	🚧  Weather App - Finished 🚀 🚧
 </h4>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#-about">About</a> •
+ <a href="#-how-it-works">How it works</a> • 
+ <a href="#-tech-stack">Tech Stack</a> • 
+ <a href="#-author">Author</a> • 
+ <a href="#-license">License</a>
 </p>
 
 
-## 💻 Sobre o projeto
+## 💻 About
 
-Previsão do Tempo - é uma aplicação para consulta da previsão do tempo, em português, com a possibilidade de consultar qualquer cidade do mundo.
+The Weather App - is a web application that allows the user to type a city and search for their current weather.
 
 ---
 
-## 🚀 Como executar o projeto
+## 🚀 How it works
 
-Este projeto foi desenvolvido somente o Frontend.
+This project was developed only the Frontend.
 
-### Pré-requisitos
+### Pre-requisites
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Before you begin, you will need to have the following tools installed on your machine:
+[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
+In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
 
 
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Running the web application (Frontend)
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/Cadufc91/Previsao-do-Tempo.git
-# Acesse a pasta do projeto no seu terminal/cmd
+# Access the project folder in your terminal
 $ cd Previsao-do-Tempo
-# Instale as dependências
+# Install the dependencies
 $ npm install
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ npm run dev
-# A aplicação deverá ser aberta na porta:3000 no seu browser - acesse http://localhost:3000
+# The application needs to be opened on the port: 3000 in your browser - go to http://localhost:3000
 ```
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Tech Stack
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 #### **Website**  ([Next.js](https://nextjs.org/))
 
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
 -   **[Chackra UI](https://chakra-ui.com/)**
 
-> Veja o arquivo  [package.json](https://github.com/cadufc91/Previsao-do-Tempo/blob/master/web/package.json)
-#### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)
-
-**Utilitários**
+> See file  [package.json](https://github.com/cadufc91/Previsao-do-Tempo/blob/master/web/package.json)
+> 
+**Utilities**
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
 -   Markdown:  **[StackEdit](https://stackedit.io/)**,  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 
-
 ---
 
-## 👨‍💻 Contribuidores
+## 👨‍💻 Contributors
 
 <table>
   <tr>
@@ -92,14 +89,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
   </tr>
 </table>
 
-## 💪 Como contribuir para o projeto
+## 💪 How to contribute
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
+1. Fork the project.
+2. Create a new branch with your changes: `git checkout -b my-feature`
+3. Save your changes and create a commit message telling you what you did: `git commit -m" feature: My new feature "`
+4. Submit your changes: `git push origin my-feature`
+
 ---
-## 🦸 Autor
+## 🦸 Author
 
 <a href="https://cadufc-portfolio.vercel.app/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/92037562?v=4" width="100px;" alt=""/>
@@ -112,14 +110,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 📝 Licença
+## 📝 License
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+This project is under the license [MIT](./LICENSE).
 
-Feito com ❤️ por Cadu Fernandes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/carloseduardo-fernandes/)
+Made with love by Cadu Fernandes 👋🏽 [Get in Touch!](https://www.linkedin.com/in/carloseduardo-fernandes/)
 
 ---
 
-##  Versões do README
+##  README versions
 
-[Português 🇧🇷](./README.md)  |  [Inglês 🇺🇸](./README-en.md) 
+[Portuguese 🇧🇷](./README.md)  |  [English 🇺🇸](./README-en.md) 
